@@ -1,1 +1,1 @@
-# Singleton
+A template singleton pattern implementation
