@@ -4,6 +4,5 @@
 
 int main()
 {
-        Singleton* p = Singleton::get_instance();
-        Singleton::remove_instance();
+        Singleton& p = Singleton::get_instance();
 }

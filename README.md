@@ -1,1 +1,1 @@
-A template singleton pattern implementation
+A thread safe template singleton pattern implementation
